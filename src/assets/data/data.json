@@ -56,8 +56,8 @@
           "sessions": [
             {
               "name": "Signing up to hustleportal",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "location": "Online presentation",
+              "description": "It's time to learn how you can easily sign up to hustleportal and let the productivity tool help you make decisions more effectivily and communicate with your team more effectivily.",
               "speakerNames": ["Eva Eagle", "Lionel Lion"],
               "timeStart": "10:00 am",
               "timeEnd": "10:15 am",
