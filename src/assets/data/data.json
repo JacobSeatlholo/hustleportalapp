@@ -20,13 +20,13 @@
           "time": "9:15 am",
           "sessions": [
             {
-              "name": "Getting Started with Ionic",
+              "name": "Getting Started with hustleportal",
               "location": "Hall 2",
               "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Ted Turtle"],
               "timeStart": "9:30 am",
               "timeEnd": "9:45 am",
-              "tracks": ["Ionic"],
+              "tracks": ["Businesshustle"],
               "id": "2"
             },
             {
@@ -244,7 +244,7 @@
     }
   ],
 
-  "speakers": [
+  "Team Members": [
     {
       "name": "Burt Bear",
       "profilePic": "/assets/img/speakers/bear.jpg",
@@ -432,27 +432,27 @@
       "icon": "document"
     },
     {
-      "name": "Food",
+      "name": "Work Management",
       "icon": "restaurant"
     },
     {
-      "name": "Ionic",
+      "name": "Strategy",
       "icon": "logo-ionic"
     },
     {
-      "name": "Tooling",
+      "name": "Finance",
       "icon": "hammer"
     },
     {
-      "name": "Design",
+      "name": "Deals",
       "icon": "color-palette"
     },
     {
-      "name": "Services",
+      "name": "Sales",
       "icon": "cog"
     },
     {
-      "name": "Workshop",
+      "name": "Client Relations",
       "icon": "construct"
     },
     {
@@ -460,7 +460,7 @@
       "icon": "call"
     },
     {
-      "name": "Navigation",
+      "name": "Trips",
       "icon": "compass"
     }
   ]
